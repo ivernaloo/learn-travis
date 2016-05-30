@@ -4,6 +4,7 @@
   "author": "your name here :-)",
   "version": "0.0.1",
   "devDependencies": {
+    "jsdoc": "^3.4.0",
     "jshint": "^2.9.2"
   },
   "scripts": {
